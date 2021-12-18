@@ -6,13 +6,6 @@ output: html_document
 ---
 CASE STUDY: Cyclist Bike-Share Analysis
 
-```{r}
-# installing required packages
-library(tidyverse)
-library(lubridate)
-library(ggplot2)
-setwd("/Users/ElMehdi/Downloads/Projects/Case_Study_Bike/Cyclistic_Bike")
-```
 
 ```{r}
 ## installing required packages
